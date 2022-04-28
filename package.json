@@ -1,0 +1,19 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "my fist project with launchXBackend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-gp99/my_launchx_app.git"
+  },
+  "author": "@victor-gp99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-gp99/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/victor-gp99/my_launchx_app#readme"
+}
